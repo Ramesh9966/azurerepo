@@ -1,2 +1,3 @@
 I am .Net Developer
 I am learning azure devop
+I am attend the class every day at 9:00 am
